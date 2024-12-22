@@ -74,8 +74,9 @@ RegisterNumber:
 ![image](https://github.com/user-attachments/assets/08b06d04-3ee2-4519-87fc-69af73bcba47)
 
 
-**TRUTH TABLE**
-
-
 
 **RESULTS**
+```
+Thus, the JK Flip-Flop is designed, and its functionality is validated using the
+truth table and timing diagrams
+```
