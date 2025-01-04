@@ -71,7 +71,7 @@ RegisterNumber:
 
 **TIMING DIAGRAM FOR IP COUNTER**
 
-![image](https://github.com/user-attachments/assets/08b06d04-3ee2-4519-87fc-69af73bcba47)
+![image](https://github.com/user-attachments/assets/ec281c34-1e56-4ebd-9979-278a63ee8bda)
 
 
 
