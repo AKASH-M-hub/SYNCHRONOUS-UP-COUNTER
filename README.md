@@ -71,8 +71,14 @@ RegisterNumber:
 
 **TIMING DIAGRAM FOR IP COUNTER**
 
-![image](https://github.com/user-attachments/assets/fbcfa47c-cbae-4509-bd8e-21661159af48)
 
+![image](https://github.com/user-attachments/assets/65bb0c03-f07d-4e09-bccf-df4367e1414f)
+
+
+**TRUTH TABLE**
+
+
+![image](https://github.com/user-attachments/assets/085f73a4-95bc-4f8a-8343-8b0d5a52dd23)
 
 
 **RESULTS**
